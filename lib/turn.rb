@@ -1,4 +1,3 @@
-
 def display_board(move = board)
   puts " #{move[0]} | #{move[1]} | #{move[2]} "
   puts "-----------"
